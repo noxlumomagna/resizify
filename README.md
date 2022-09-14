@@ -9,5 +9,6 @@ npm start
 go to http://localhost:3000/upload
 
 Your image will be resized and placed in the images folder in the public folder
+To update image specifications go to uploadMiddleware.js file and update accordingly
 
 Voila~!
